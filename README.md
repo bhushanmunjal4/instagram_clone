@@ -2,9 +2,11 @@
 Welcome to the Instagram Clone App repository!
 
 Overview:
+
 This project is a React Native-based Instagram clone, designed to replicate the core functionalities of the popular social media platform. From sharing photos to exploring feeds and connecting with friends, our Instagram clone aims to provide a seamless and visually appealing user experience.
 
 Key Features:
+
 User Authentication: Secure user authentication system to ensure a personalized experience.
 
 Feed and Posts: Create and share beautiful photos with your followers.
